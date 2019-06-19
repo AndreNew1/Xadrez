@@ -1,0 +1,11 @@
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.AssemblyInfo.cs
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp2.1\Xadrez.deps.json
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp2.1\Xadrez.runtimeconfig.json
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp2.1\Xadrez.runtimeconfig.dev.json
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp2.1\Xadrez.dll
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp2.1\Xadrez.pdb
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.dll
+C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.pdb
