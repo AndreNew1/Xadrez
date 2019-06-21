@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Treinamento 2\\source\\repos\\Xadrez\\Xadrez\\Xadrez.csproj": {}
+    "C:\\Users\\Treinamento 2\\Desktop\\xadrez\\Xadrez\\Xadrez\\Xadrez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Treinamento 2\\source\\repos\\Xadrez\\Xadrez\\Xadrez.csproj": {
+    "C:\\Users\\Treinamento 2\\Desktop\\xadrez\\Xadrez\\Xadrez\\Xadrez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Treinamento 2\\source\\repos\\Xadrez\\Xadrez\\Xadrez.csproj",
+        "projectUniqueName": "C:\\Users\\Treinamento 2\\Desktop\\xadrez\\Xadrez\\Xadrez\\Xadrez.csproj",
         "projectName": "Xadrez",
-        "projectPath": "C:\\Users\\Treinamento 2\\source\\repos\\Xadrez\\Xadrez\\Xadrez.csproj",
+        "projectPath": "C:\\Users\\Treinamento 2\\Desktop\\xadrez\\Xadrez\\Xadrez\\Xadrez.csproj",
         "packagesPath": "C:\\Users\\Treinamento 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Treinamento 2\\source\\repos\\Xadrez\\Xadrez\\obj\\",
+        "outputPath": "C:\\Users\\Treinamento 2\\Desktop\\xadrez\\Xadrez\\Xadrez\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

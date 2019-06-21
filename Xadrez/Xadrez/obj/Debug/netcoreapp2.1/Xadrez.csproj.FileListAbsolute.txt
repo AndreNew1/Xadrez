@@ -9,3 +9,9 @@ C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp2.1\Xadrez
 C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\bin\Debug\netcoreapp2.1\Xadrez.pdb
 C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.dll
 C:\Users\Treinamento 2\source\repos\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.pdb
+C:\Users\Treinamento 2\Desktop\xadrez\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.csprojAssemblyReference.cache
+C:\Users\Treinamento 2\Desktop\xadrez\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 2\Desktop\xadrez\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.AssemblyInfoInputs.cache
+C:\Users\Treinamento 2\Desktop\xadrez\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.AssemblyInfo.cs
+C:\Users\Treinamento 2\Desktop\xadrez\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.dll
+C:\Users\Treinamento 2\Desktop\xadrez\Xadrez\Xadrez\obj\Debug\netcoreapp2.1\Xadrez.pdb
